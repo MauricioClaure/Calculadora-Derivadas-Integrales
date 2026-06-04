@@ -1,0 +1,10 @@
+C:\Users\Mauricio\source\repos\calculadora de derivadas e integrales\calculadora de derivadas e integrales\bin\Debug\calculadora de derivadas e integrales.exe.config
+C:\Users\Mauricio\source\repos\calculadora de derivadas e integrales\calculadora de derivadas e integrales\bin\Debug\calculadora de derivadas e integrales.exe
+C:\Users\Mauricio\source\repos\calculadora de derivadas e integrales\calculadora de derivadas e integrales\bin\Debug\calculadora de derivadas e integrales.pdb
+C:\Users\Mauricio\source\repos\calculadora de derivadas e integrales\calculadora de derivadas e integrales\obj\Debug\calculadora de derivadas e integrales.csproj.AssemblyReference.cache
+C:\Users\Mauricio\source\repos\calculadora de derivadas e integrales\calculadora de derivadas e integrales\obj\Debug\calculadora_de_derivadas_e_integrales.Form1.resources
+C:\Users\Mauricio\source\repos\calculadora de derivadas e integrales\calculadora de derivadas e integrales\obj\Debug\calculadora_de_derivadas_e_integrales.Properties.Resources.resources
+C:\Users\Mauricio\source\repos\calculadora de derivadas e integrales\calculadora de derivadas e integrales\obj\Debug\calculadora de derivadas e integrales.csproj.GenerateResource.cache
+C:\Users\Mauricio\source\repos\calculadora de derivadas e integrales\calculadora de derivadas e integrales\obj\Debug\calculadora de derivadas e integrales.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\source\repos\calculadora de derivadas e integrales\calculadora de derivadas e integrales\obj\Debug\calculadora de derivadas e integrales.exe
+C:\Users\Mauricio\source\repos\calculadora de derivadas e integrales\calculadora de derivadas e integrales\obj\Debug\calculadora de derivadas e integrales.pdb
